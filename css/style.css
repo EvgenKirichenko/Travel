@@ -594,6 +594,9 @@ select {
   margin-bottom: 50px; }
 
 .ba-search-form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   position: relative;
   margin: 0 auto;
   padding-left: 210px;
